@@ -1,0 +1,54 @@
+accounts:
+    alexander.preis@gcp-dev.l-bank.de:
+        name: alexander.preis@gcp-dev.l-bank.de
+        projects: {}
+    alexander.preis@infologistix.de:
+        name: alexander.preis@infologistix.de
+        projects: {}
+    alexander.preis@l-bank.de:
+        name: alexander.preis@l-bank.de
+        projects:
+            cleo-np-int-healthcheck:
+                name: cleo-np-int-healthcheck
+                machines: {}
+            cleo-np-pfm-gh-safesettings:
+                name: cleo-np-pfm-gh-safesettings
+                machines: {}
+            cleo-prod-pfm-gh-safesettings:
+                name: cleo-prod-pfm-gh-safesettings
+                machines: {}
+            lbank-p-nonprod-ap-0:
+                name: lbank-p-nonprod-ap-0
+                machines: {}
+            lbank-p-nonprod-net-spoke-0:
+                name: lbank-p-nonprod-net-spoke-0
+                machines: {}
+            lbank-p-nonprod-sec-core-0:
+                name: lbank-p-nonprod-sec-core-0
+                machines: {}
+            lbank-p-prod-ap-0:
+                name: lbank-p-prod-ap-0
+                machines: {}
+            lbank-p-prod-audit-logs-0:
+                name: lbank-p-prod-audit-logs-0
+                machines: {}
+            lbank-p-prod-billing-exp-0:
+                name: lbank-p-prod-billing-exp-0
+                machines: {}
+            lbank-p-prod-iac-core-0:
+                name: lbank-p-prod-iac-core-0
+                machines: {}
+            lbank-p-prod-net-landing-0:
+                name: lbank-p-prod-net-landing-0
+                machines: {}
+            lbank-p-prod-net-spoke-0:
+                name: lbank-p-prod-net-spoke-0
+                machines: {}
+            lbank-p-prod-sec-core-0:
+                name: lbank-p-prod-sec-core-0
+                machines: {}
+    googleadmin@infologistix.de:
+        name: googleadmin@infologistix.de
+        projects: {}
+activeaccount: ""
+activeprojects: {}
